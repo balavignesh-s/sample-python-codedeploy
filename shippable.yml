@@ -7,6 +7,7 @@ env:
   global:
     - AWS_ACCESS_KEY_ID=AKIAIP2K6LJVCSNWZD6Q
     - AWS_DEFAULT_REGION=ap-southeast-1b
+    - secure: e1O4fPsks8LPrQCS968vgLmkADnVUil9stNUEFBYTu9ezhn/cdGI/ywdCkD49/IHfLhjASIVqd1DwuUENxnProD5zWEuwvlSEI83hvym4M1Rp6GSw4HWY8wPPM+tcL0jRhZphHrNDA8NM6q/Gh+mwAcjpXk4D2JG8pY0rqdDnXSrDTC5YlrB6MRcych2Mg1S3SwQ1tij4YZF0lGkFCk56dItalIZsXOexmvNxclpHjp2wFoj4sy+T0hp6Vi+FjNbQ1scI4MX/Mqq/1DCL7HyAEkAxe8YYchYMFKtlo9aE6da6ZEPdWnjMO25dTaz1lq5m6lNSFzVoV5QhhWZtW+Lvw==
     - CD_APP_NAME=ShippableCodeDeploy CD_BUCKET=codedeploy-sample CD_KEY=latest 
     - CD_DEPLOYMENT_GROUP=DemoFleet
 
