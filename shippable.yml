@@ -5,9 +5,9 @@ python:
 
 env:
   global:
-    - AWS_ACCESS_KEY_ID=AKIAJJL2U6T3F3Y5JIGA
-    - AWS_DEFAULT_REGION=us-west-2
-    - secure: i+TtDQJOhWDHHBefmYXTla+yGLmkIcUhiTApZ4FADAVD3gYI9wVsup2QlU8bTcjUglMLgBsZuKIBDls6x98sggLe/H1mbifibZcEDPWGpiml9O2+6hvl32maKvNx8UeWjx/0aoNXt/UtUGS6G0KHerj+Wik4/nvo5eokxFs1FrkZl8IrNZ6GSFWhvwiQZIXGw1GdNIiNMmqX+fS7AOfdZTrUc9WHq4QM4nTzr92FZwR+zn2BwQhCtDOOa5GyRh58V9v9lQubksv/4H0LSfm7flepsUSDNc8ooJ9qLZBOyCsf8XACXWgjzwzwu9vETZsqUn2Iwjr4zW/jvXi/Q7l34g==
+    - AWS_ACCESS_KEY_ID=AKIAIP2K6LJVCSNWZD6Q
+    - AWS_DEFAULT_REGION=ap-southeast-1b
+    - secure: Jf3kjzcWWmITiYuYuzTUra8tqlzNjfTPdRg1Ld8lDfDXGOrKERvAI6jrc4ddckNiQhfFKDIYqqO7craltT6IE+QaxB+PXGJ51g3RkZfN0ZRJFeh24C0ilHWbwhk/MlUaJfYds1DLMk5v5B4wz6cMd+4UhNqufs+o8Vmb2HmufY8dgOukoJRAToKYtGz6bpaypME5f4J/OxcrFtGx3WnZVzR+VWEz1R0se8AXN3TmKi9kzMHM+F5juFVcSXNX8E1fvjvfBXE0L90FhzwKgnSFnCl5TiNp1++Jxg6jkLex8HUhuc/ajwf6OGW8SE5MOCpJxEt069kwQ2BatWcNmpZjyg==
     - CD_APP_NAME=ShippableCodeDeploy CD_BUCKET=codedeploy-sample CD_KEY=latest 
     - CD_DEPLOYMENT_GROUP=DemoFleet
 
